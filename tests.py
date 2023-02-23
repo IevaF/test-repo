@@ -28,7 +28,3 @@ print(txt.format(Username))'''
 
 val=20+10
 print(val)
-
-# comment
-# comment
-
