@@ -1,3 +1,5 @@
+#made a correction
+
 #def sentence_maker(phrase):
  #interrogatives = ("how", "what", "why")
   #capitalized = phrase.capitalize()
